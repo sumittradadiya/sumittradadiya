@@ -4,7 +4,7 @@
 
 ### 🎓 BSc IT Student | Aspiring Software Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=sumittradadiya&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=sumitradadiya&color=blueviolet&style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=flat-square)
 
 </div>
@@ -41,17 +41,6 @@
 | **Database** | DBMS, SQL |
 | **Web** | HTML, CSS |
 | **Emerging Skills** | Prompt Engineering |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sumit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumittradadiya&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumittradadiya&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
