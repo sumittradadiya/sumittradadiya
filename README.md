@@ -4,7 +4,6 @@
 
 ### 🎓 BSc IT Student | Aspiring Software Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=sumitradadiya&color=blueviolet&style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=flat-square)
 
 </div>
